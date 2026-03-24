@@ -1,5 +1,9 @@
 # 🏏 Cricket Strategy Intelligence System
 
+# Data Set is available in zip file so unzip and rename it as IPL.csv then use code...
+# another thing is 2 file 1.app.py--> in that except best partner and opposite image,all same.
+# app1.py--->high level
+
 ## 📌 Description
 This project analyzes cricket player performance and provides match strategy suggestions using data analytics.
 
